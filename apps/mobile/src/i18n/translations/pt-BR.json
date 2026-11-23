@@ -5614,5 +5614,13 @@
   "99d51127f573296b": "Outra conta",
   "8ec2c57414669b79": "Conecte um segundo espaço de trabalho ou usuário do {tracker}.",
   "4357fd98704699df": "O endereço do ambiente é inválido.",
-  "a40e0fcc294eed26": "O login em {host} foi cancelado."
+  "a40e0fcc294eed26": "O login em {host} foi cancelado.",
+  "bfca7b6df2ce46a9": "Entre em {host} novamente.",
+  "b831531bbe27ae73": "Não foi possível acessar {host}.",
+  "aaf6ded61b89b52d": "Entrar por um proxy de identidade requer o app para iOS ou para desktop.",
+  "0663160ec02bd73e": "Não foi possível abrir a página de login: {cause}",
+  "6730fa8ae68fad99": "Falha ao adicionar o backend.",
+  "3078a2a3b948c409": "Entrar com proxy OIDC",
+  "4da298339fde7575": "Abre o endereço acima para que o proxy na frente dele faça seu login. Não precisa de código.",
+  "0b99239b0a69e6fd": "Ou entre por um proxy de identidade"
 }
