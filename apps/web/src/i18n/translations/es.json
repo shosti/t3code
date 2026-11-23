@@ -12781,5 +12781,14 @@
   "99d51127f573296b": "Otra cuenta",
   "8ec2c57414669b79": "Conecta un segundo espacio de trabajo o usuario de {tracker}.",
   "99963c0142e17f00": "Para la nueva cuenta de {tracker}.",
-  "6d8e4ebc889bace9": "Añadir cuenta"
+  "6d8e4ebc889bace9": "Añadir cuenta",
+  "4357fd98704699df": "La dirección del entorno no es válida.",
+  "a40e0fcc294eed26": "Se canceló el inicio de sesión en {host}.",
+  "4393133f172ea4a8": "Para iniciar sesión en un entorno se necesita la aplicación de escritorio.",
+  "0663160ec02bd73e": "No se pudo abrir la página de inicio de sesión: {cause}",
+  "88f6523b01490d4f": "Iniciar sesión en {host}",
+  "25d84a20b0793eb8": "La sesión de inicio de sesión de este entorno terminó.",
+  "f932d120942f1c12": "Esperando el inicio de sesión…",
+  "cf2370d60586f15f": "Proxy OIDC",
+  "77d884868af81f94": "Inicia sesión a través del proxy de identidad delante del entorno."
 }

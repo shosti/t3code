@@ -12793,5 +12793,14 @@
   "99d51127f573296b": "Ett konto till",
   "8ec2c57414669b79": "Anslut en andra {tracker}-arbetsyta eller användare.",
   "99963c0142e17f00": "För det nya {tracker}-kontot.",
-  "6d8e4ebc889bace9": "Lägg till konto"
+  "6d8e4ebc889bace9": "Lägg till konto",
+  "4357fd98704699df": "Miljöns adress är ogiltig.",
+  "a40e0fcc294eed26": "Inloggningen på {host} avbröts.",
+  "4393133f172ea4a8": "Inloggning i en miljö kräver skrivbordsappen.",
+  "0663160ec02bd73e": "Det gick inte att öppna inloggningssidan: {cause}",
+  "88f6523b01490d4f": "Logga in på {host}",
+  "25d84a20b0793eb8": "Inloggningssessionen för den här miljön har upphört.",
+  "f932d120942f1c12": "Väntar på inloggning…",
+  "cf2370d60586f15f": "OIDC-Proxy",
+  "77d884868af81f94": "Logga in via identitetsproxyn framför miljön."
 }
